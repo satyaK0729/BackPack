@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BackPack</string>
+    <string name="about_us_title">About Us</string>
+    <string name="group_number">Group Number: 18</string>
+    <string name="group_members">Group Members:\n1) Name: G.Dharshith, Admission Number: AP21110011255\n2) Name: Aravind, Admission Number: AP21110011095\n3) Name: Satya Narayana, Admission Number: AP21110011043\n4) Name: Venkatesh, Admission Number: AP21110011073\n5) Name: Ganesh, Admission Number: AP21110011072</string>
+    <string name="special_thanks">Special thanks to <font color="#FF4081">Amit Kumar Mandal Sir</font></string>
+</resources>
